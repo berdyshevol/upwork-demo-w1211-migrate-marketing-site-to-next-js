@@ -1,5 +1,10 @@
 # CrossBeamIP Migration Slice
 
+## Live demo
+
+https://upwork-demo-w1211-migrate-marketing.vercel.app
+
+
 A working slice of a 44-page edit.site marketing site migrated to Next.js App
 Router — built as a **content-driven system**, not 44 hand-copied pages.
 
