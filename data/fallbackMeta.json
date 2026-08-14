@@ -1,0 +1,21 @@
+{
+  "byId": {
+    "resources-glossary": "Plain-English definitions for the terms that show up on an IP docket — priority date, statutory bar, annuity, divisional and SPC — written for the paralegal who has to use them today.",
+    "legal-terms": "The subscription terms behind CrossBeamIP: what you own, what we commit to on availability, how data comes back out, and what happens on termination.",
+    "support-status": "Live availability for the CrossBeamIP application, the national register feeds and the API, with a full incident history and post-incident notes.",
+    "blog-choosing-ip-platform": "Eleven questions worth putting to any IP platform vendor in a demo — most of which are really about how hard it is to leave afterwards."
+  },
+  "byTemplate": {
+    "marketing": "{title} — CrossBeamIP keeps docketing, annuities and prior-art research on one family record, so in-house IP teams stop reconciling spreadsheets before every deadline.",
+    "product": "{title} — see how this part of CrossBeamIP writes to the same family record the rest of the product reads, which is why the numbers agree across every screen.",
+    "pricing": "{title} — CrossBeamIP is priced per IP family under management rather than per seat, so adding a paralegal or an outside firm to a matter costs nothing extra.",
+    "solutions": "{title} — a CrossBeamIP workflow for in-house IP teams, built on register-sourced dates and jurisdiction rules rather than on a shared spreadsheet.",
+    "industry": "{title} — how CrossBeamIP handles the filing patterns, deadline rules and reporting this sector actually runs into, with examples from live portfolios.",
+    "blog": "{title} — practical notes from the CrossBeamIP team on running IP operations, with the working shown rather than the conclusion asserted.",
+    "resource": "{title} — a CrossBeamIP resource for IP counsel and operations leads, with the method written out so you can run it against your own portfolio.",
+    "company": "{title} — who builds CrossBeamIP, what we are accountable for, and how to reach the person who can actually answer your question.",
+    "legal": "{title} — the current CrossBeamIP legal terms, written to be read rather than skimmed, with the effective date at the top of the page.",
+    "support": "{title} — CrossBeamIP support material organised by the job you are trying to finish, not by the module the feature happens to live in."
+  },
+  "default": "{title} — part of the CrossBeamIP marketing site, migrated to Next.js App Router with its legacy URL preserved by a 308 redirect."
+}

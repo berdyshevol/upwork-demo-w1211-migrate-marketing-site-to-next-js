@@ -1,0 +1,9 @@
+{
+  "total": 21,
+  "passing": 21,
+  "spec_files": [
+    "tests/migration-console.spec.ts",
+    "tests/migrated-pages.spec.ts",
+    "tests/meta-draft-byok.spec.ts"
+  ]
+}

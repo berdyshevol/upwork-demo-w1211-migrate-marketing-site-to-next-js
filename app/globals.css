@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-ink-950 text-slate-200 antialiased;
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl border border-ink-600/70 bg-ink-900/60 shadow-sm;
+  }
+
+  .badge {
+    @apply inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium ring-1 ring-inset;
+  }
+
+  .field {
+    @apply rounded-md border border-ink-600 bg-ink-800 px-2.5 py-1.5 text-sm text-slate-100
+      outline-none focus:border-beam-400 focus:ring-1 focus:ring-beam-400;
+  }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Solutions">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#1d2647"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect x="72" y="180" width="6" height="220" fill="#5b86f5"/>
+  <text x="112" y="150" font-family="system-ui, sans-serif" font-size="26" fill="#7aa2ff" letter-spacing="4">CROSSBEAMIP</text>
+  <text x="112" y="290" font-family="system-ui, sans-serif" font-size="72" font-weight="700" fill="#ffffff">Solutions</text>
+  <text x="112" y="356" font-family="system-ui, sans-serif" font-size="34" fill="#9aa3bd">Workflows for in-house IP teams</text>
+  <text x="112" y="546" font-family="system-ui, sans-serif" font-size="24" fill="#6b7699">Migrated to Next.js App Router</text>
+</svg>

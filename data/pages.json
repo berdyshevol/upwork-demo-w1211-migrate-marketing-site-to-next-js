@@ -1,0 +1,344 @@
+[
+  {
+    "id": "home",
+    "legacyPath": "/legacy/index.html",
+    "newSlug": "home",
+    "title": "CrossBeamIP — IP portfolio operations",
+    "template": "marketing",
+    "wordCount": 612,
+    "defaultStatus": "done",
+    "seo": {
+      "title": "CrossBeamIP — Run your IP portfolio without the spreadsheet",
+      "description": "CrossBeamIP keeps docketing, annuities and prior-art research in one system, so in-house IP teams stop reconciling four spreadsheets before every filing deadline.",
+      "ogImage": "/og/home.svg"
+    },
+    "sections": [
+      {
+        "type": "hero",
+        "eyebrow": "IP portfolio operations",
+        "heading": "Every deadline, every family, one system of record",
+        "body": "CrossBeamIP replaces the docketing spreadsheet, the annuity reminder inbox and the shared drive of prior-art PDFs with a single portfolio your whole team reads from.",
+        "primaryCta": { "label": "See pricing", "href": "/site/pricing" },
+        "secondaryCta": { "label": "How the product works", "href": "/site/product" },
+        "stats": [
+          { "value": "38k", "label": "families under management" },
+          { "value": "0", "label": "missed statutory deadlines in 2025" },
+          { "value": "11 min", "label": "median docket entry time" }
+        ]
+      },
+      {
+        "type": "features",
+        "heading": "What in-house IP teams actually run on",
+        "intro": "Four capabilities that cover the work between an invention disclosure and a granted, maintained right.",
+        "items": [
+          {
+            "title": "Docketing that reconciles itself",
+            "body": "Office actions, responses and statutory bars are dated from the source register, not retyped from an email. Conflicts surface as a diff you approve."
+          },
+          {
+            "title": "Annuity forecasting in currency",
+            "body": "Three-year renewal cost projections per jurisdiction, with the abandon/maintain decision recorded against the family so finance stops asking twice."
+          },
+          {
+            "title": "Prior-art workspace",
+            "body": "Search results, examiner citations and your own notes live on the family record, so the next attorney to touch it inherits the reasoning."
+          },
+          {
+            "title": "Outside-counsel handoff",
+            "body": "Instruction letters generated from the docket entry, with a read receipt and a due date the firm sees in the same view you do."
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "heading": "Bring your portfolio over in a fortnight",
+        "body": "Send us a docket export in any format your current provider gives you. We map it, you review the diff, and nothing goes live until the dates reconcile.",
+        "cta": { "label": "Talk to the migration team", "href": "/site/product" },
+        "footnote": "No card, no trial clock — migration review is done with a real engineer."
+      }
+    ]
+  },
+  {
+    "id": "product",
+    "legacyPath": "/legacy/product-overview.html",
+    "newSlug": "product",
+    "title": "Product overview",
+    "template": "product",
+    "wordCount": 848,
+    "defaultStatus": "done",
+    "seo": {
+      "title": "Product overview — docketing, annuities and prior art in one record | CrossBeamIP",
+      "description": "See how CrossBeamIP models an IP family: register-sourced dates, renewal forecasts, prior-art notes and outside-counsel instructions on a single record.",
+      "ogImage": "/og/product.svg"
+    },
+    "sections": [
+      {
+        "type": "hero",
+        "eyebrow": "Product",
+        "heading": "One family record, four teams reading it",
+        "body": "Paralegals docket against it, attorneys reason on it, finance forecasts from it and outside counsel is instructed from it. There is no second copy to reconcile.",
+        "primaryCta": { "label": "See what it costs", "href": "/site/pricing" },
+        "secondaryCta": { "label": "Portfolio analytics", "href": "/site/solutions-portfolio-analytics" },
+        "stats": [
+          { "value": "42", "label": "jurisdictions with rule-based dating" },
+          { "value": "3 yr", "label": "annuity forecast horizon" },
+          { "value": "SOC 2", "label": "Type II, audited annually" }
+        ]
+      },
+      {
+        "type": "features",
+        "heading": "How the record is put together",
+        "intro": "Each capability writes to the same family object, which is why the numbers agree across screens.",
+        "items": [
+          {
+            "title": "Register-sourced dating",
+            "body": "Priority, filing, publication and grant dates are pulled from the national register and versioned. When a register corrects itself, you see the correction as an event, not a silent overwrite."
+          },
+          {
+            "title": "Rule engine per jurisdiction",
+            "body": "Response windows, extension options and annuity schedules encoded per office. A rule change ships as a dated update you can see in the family's history."
+          },
+          {
+            "title": "Cost model attached to the family",
+            "body": "Official fees, agent fees and translation costs sit on the record in the filing currency and the reporting currency, both at the rate on the date incurred."
+          },
+          {
+            "title": "Instruction letters with receipts",
+            "body": "Generate the letter from the docket entry, send it, and keep the acknowledgement on the same record. No hunting through a shared mailbox for who confirmed what."
+          },
+          {
+            "title": "Audit trail that survives people leaving",
+            "body": "Every status change carries who, when and the reasoning field they filled in. Handover stops depending on one paralegal's memory."
+          },
+          {
+            "title": "Exports that go back out cleanly",
+            "body": "WIPO ST.96, CSV and your finance system's chart of accounts. Migrating away later is a supported operation, not a support ticket."
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "heading": "See it against your own docket",
+        "body": "We run a read-only import of a slice of your portfolio and show you where our dates disagree with your current ones. That report is yours either way.",
+        "cta": { "label": "Request a reconciliation report", "href": "/site/pricing" },
+        "footnote": "Typical slice is 200 families and takes four working days."
+      }
+    ]
+  },
+  {
+    "id": "pricing",
+    "legacyPath": "/legacy/pricing.html",
+    "newSlug": "pricing",
+    "title": "Pricing",
+    "template": "pricing",
+    "wordCount": 534,
+    "defaultStatus": "done",
+    "seo": {
+      "title": "Pricing — per family, per year, no seat tax | CrossBeamIP",
+      "description": "CrossBeamIP is priced per IP family under management, not per seat, so adding a paralegal or an outside firm to a matter costs nothing extra.",
+      "ogImage": "/og/pricing.svg"
+    },
+    "sections": [
+      {
+        "type": "hero",
+        "eyebrow": "Pricing",
+        "heading": "Priced per family, not per seat",
+        "body": "Everyone who touches a matter — paralegals, attorneys, finance, outside counsel — gets a login at no extra cost. You pay for the portfolio you actually manage.",
+        "primaryCta": { "label": "Read the product overview", "href": "/site/product" },
+        "secondaryCta": { "label": "Back to the migration console", "href": "/" },
+        "stats": [
+          { "value": "$18", "label": "per family / year, Portfolio tier" },
+          { "value": "Free", "label": "seats, all tiers" },
+          { "value": "30 days", "label": "notice to cancel, no lock-in" }
+        ]
+      },
+      {
+        "type": "features",
+        "heading": "Three tiers, one product",
+        "intro": "The same record model at every tier. What changes is the jurisdiction coverage and how much of the migration we do for you.",
+        "items": [
+          {
+            "title": "Docket — $12 per family / year",
+            "body": "Register-sourced dating and deadline management for up to 8 jurisdictions. Self-serve CSV import. Email support with a one-business-day target."
+          },
+          {
+            "title": "Portfolio — $18 per family / year",
+            "body": "All 42 jurisdictions, annuity forecasting, cost model and outside-counsel instructions. Assisted migration with a reconciliation report before cutover."
+          },
+          {
+            "title": "Enterprise — from $26 per family / year",
+            "body": "Adds SSO, custom retention policy, sandbox tenant and a named migration engineer. Annual invoicing and a signed DPA as standard."
+          },
+          {
+            "title": "What is never metered",
+            "body": "Users, matters viewed, documents stored, API calls and exports. We have never found a way to price those that did not punish good practice."
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "heading": "Work out your number in about a minute",
+        "body": "Count the live families in your current docket, multiply by the tier rate. If the answer surprises you, tell us the count and we will sanity-check it against portfolios the same shape.",
+        "cta": { "label": "Send us a family count", "href": "/site/product" },
+        "footnote": "Dormant and abandoned families are not billed."
+      }
+    ]
+  },
+  {
+    "id": "solutions-portfolio-analytics",
+    "legacyPath": "/legacy/solutions/portfolio-analytics.html",
+    "newSlug": "solutions-portfolio-analytics",
+    "title": "Solutions — Portfolio analytics",
+    "template": "solutions",
+    "wordCount": 727,
+    "defaultStatus": "done",
+    "seo": {
+      "title": "Portfolio analytics — decide what to renew and what to let lapse | CrossBeamIP",
+      "description": "Model renewal cost against commercial coverage per family, so the abandon-or-maintain decision is made on evidence and recorded where the next reviewer will find it.",
+      "ogImage": "/og/solutions.svg"
+    },
+    "sections": [
+      {
+        "type": "hero",
+        "eyebrow": "Solutions",
+        "heading": "Know which quarter of the portfolio is paying for itself",
+        "body": "Most portfolios carry 20–30% of families that no product line depends on any more. Analytics finds them before the annuity invoice does.",
+        "primaryCta": { "label": "See the product", "href": "/site/product" },
+        "secondaryCta": { "label": "Pricing", "href": "/site/pricing" },
+        "stats": [
+          { "value": "27%", "label": "median share of families with no linked product" },
+          { "value": "£310k", "label": "median annual renewal spend reviewed" },
+          { "value": "1 click", "label": "from a chart to the family record" }
+        ]
+      },
+      {
+        "type": "features",
+        "heading": "What the analytics actually answer",
+        "intro": "Four questions IP counsel gets asked by a CFO, with the working shown.",
+        "items": [
+          {
+            "title": "What will renewals cost us for the next three years?",
+            "body": "Forecast by jurisdiction and by business unit, in the currency each entity reports in, with the fee schedule version stamped on the number."
+          },
+          {
+            "title": "Which families protect a product we still sell?",
+            "body": "Link families to product lines once; the coverage map stays current as the docket moves. Unlinked families are flagged, not hidden."
+          },
+          {
+            "title": "Where are we filing more than we need to?",
+            "body": "Jurisdiction overlap by family, so a routine five-country filing strategy gets tested against where revenue actually is."
+          },
+          {
+            "title": "What did we decide last time, and why?",
+            "body": "Every abandon/maintain decision keeps its reasoning and its author. The review a year later starts from that, not from scratch."
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "heading": "Start with one renewal cycle",
+        "body": "Give us the families with annuities due in the next two quarters. We return the coverage map and the forecast, and you keep it whether or not you continue.",
+        "cta": { "label": "Scope a renewal review", "href": "/site/pricing" },
+        "footnote": "Runs read-only against an export — no access to your live system required."
+      }
+    ]
+  },
+  {
+    "id": "blog-why-we-left-edit-site",
+    "legacyPath": "/legacy/blog/why-we-left-edit-site.html",
+    "newSlug": "blog-why-we-left-edit-site",
+    "title": "Blog — Why we moved 44 pages off edit.site",
+    "template": "blog",
+    "wordCount": 1194,
+    "defaultStatus": "done",
+    "seo": {
+      "title": "Why we moved 44 marketing pages off edit.site | CrossBeamIP Blog",
+      "description": "A visual site builder got our marketing site launched. It also made every copy change a 44-page find-and-replace. Here is what we moved to and what it cost.",
+      "ogImage": "/og/blog.svg"
+    },
+    "sections": [
+      {
+        "type": "hero",
+        "eyebrow": "Engineering · 6 min read",
+        "heading": "Why we moved 44 marketing pages off edit.site",
+        "body": "The builder was not the problem. Forty-four independent copies of the same header was the problem, and no builder was going to fix that for us.",
+        "primaryCta": { "label": "See the migrated pages", "href": "/" },
+        "secondaryCta": { "label": "Product overview", "href": "/site/product" },
+        "stats": [
+          { "value": "44", "label": "pages in the old site" },
+          { "value": "3", "label": "section components that replaced them" },
+          { "value": "44", "label": "legacy URLs kept alive with 308s" }
+        ]
+      },
+      {
+        "type": "features",
+        "heading": "What we learned doing it",
+        "intro": "Four things we would tell anyone about to hand-copy a marketing site into a framework.",
+        "items": [
+          {
+            "title": "Hand-copying 44 pages produces 44 pages of debt",
+            "body": "The second page you copy is where the divergence starts. We modelled content first and got three section types that covered every page we had."
+          },
+          {
+            "title": "The redirect map is the migration",
+            "body": "Every old URL had inbound links and ranking. We wrote the legacy-to-new map before writing a single page, and every one of them answers 308 today."
+          },
+          {
+            "title": "Metadata belongs to the content, not the template",
+            "body": "Title, description, canonical and OG come off the page record through generateMetadata. Nobody can ship a page with the previous page's title again."
+          },
+          {
+            "title": "An inventory you can filter beats a migration plan nobody opens",
+            "body": "Status and priority per page, shareable via the URL, visible to whoever asks. That console is what let us stop holding the plan in a spreadsheet."
+          }
+        ]
+      },
+      {
+        "type": "cta",
+        "heading": "The console in this post is live",
+        "body": "The migration console lists all 44 pages, tracks status per row, and links straight through to the five pages that are fully migrated so far.",
+        "cta": { "label": "Open the migration console", "href": "/" },
+        "footnote": "Statuses you set are yours — they ride in a cookie on your own browser."
+      }
+    ]
+  },
+  { "id": "solutions-docketing-automation", "legacyPath": "/legacy/solutions/docketing-automation.html", "newSlug": "solutions-docketing-automation", "title": "Solutions — Docketing automation", "template": "solutions", "wordCount": 690, "defaultStatus": "in-review", "seo": { "title": "Docketing automation | CrossBeamIP", "description": "Date every deadline from the register instead of retyping it, and review conflicts as a diff before they reach the docket.", "ogImage": "/og/solutions.svg" } },
+  { "id": "solutions-prior-art-search", "legacyPath": "/legacy/solutions/prior-art-search.html", "newSlug": "solutions-prior-art-search", "title": "Solutions — Prior-art workspace", "template": "solutions", "wordCount": 655, "defaultStatus": "in-review", "seo": { "title": "Prior-art workspace | CrossBeamIP", "description": "Keep search results, examiner citations and attorney reasoning on the family record so the next reviewer inherits the thinking.", "ogImage": "/og/solutions.svg" } },
+  { "id": "solutions-licensing-workflow", "legacyPath": "/legacy/solutions/licensing-workflow.html", "newSlug": "solutions-licensing-workflow", "title": "Solutions — Licensing workflow", "template": "solutions", "wordCount": 604, "defaultStatus": "todo", "seo": { "title": "Licensing workflow | CrossBeamIP", "description": "Track licence terms, royalty milestones and territory grants against the same families your docket already manages.", "ogImage": "/og/solutions.svg" } },
+  { "id": "solutions-renewals-management", "legacyPath": "/legacy/solutions/renewals-management.html", "newSlug": "solutions-renewals-management", "title": "Solutions — Renewals management", "template": "solutions", "wordCount": 712, "defaultStatus": "in-review", "seo": { "title": "Renewals management | CrossBeamIP", "description": "Forecast annuity cost by jurisdiction and record the abandon-or-maintain decision where the next review will find it.", "ogImage": "/og/solutions.svg" } },
+  { "id": "solutions-ip-cost-forecasting", "legacyPath": "/legacy/solutions/ip-cost-forecasting.html", "newSlug": "solutions-ip-cost-forecasting", "title": "Solutions — IP cost forecasting", "template": "solutions", "wordCount": 668, "defaultStatus": "todo", "seo": { "title": "IP cost forecasting | CrossBeamIP", "description": "Three-year cost projections in filing and reporting currency, stamped with the fee schedule version they were built from.", "ogImage": "/og/solutions.svg" } },
+  { "id": "industries-universities", "legacyPath": "/legacy/industries/universities.html", "newSlug": "industries-universities", "title": "Industries — Universities and TTOs", "template": "industry", "wordCount": 583, "defaultStatus": "todo", "seo": { "title": "IP management for universities and technology transfer | CrossBeamIP", "description": "Run disclosures, filings and licence revenue for a technology transfer office without a bespoke internal database.", "ogImage": "/og/industry.svg" } },
+  { "id": "industries-biotech", "legacyPath": "/legacy/industries/biotech.html", "newSlug": "industries-biotech", "title": "Industries — Biotech and pharma", "template": "industry", "wordCount": 621, "defaultStatus": "todo", "seo": { "title": "IP portfolio management for biotech and pharma | CrossBeamIP", "description": "Handle SPCs, term extensions and divisional cascades with jurisdiction rules that already know about them.", "ogImage": "/og/industry.svg" } },
+  { "id": "industries-semiconductors", "legacyPath": "/legacy/industries/semiconductors.html", "newSlug": "industries-semiconductors", "title": "Industries — Semiconductors", "template": "industry", "wordCount": 597, "defaultStatus": "todo", "seo": { "title": "IP operations for semiconductor portfolios | CrossBeamIP", "description": "Manage high-volume filing programmes and cross-licence obligations across a portfolio measured in thousands of families.", "ogImage": "/og/industry.svg" } },
+  { "id": "industries-consumer-brands", "legacyPath": "/legacy/industries/consumer-brands.html", "newSlug": "industries-consumer-brands", "title": "Industries — Consumer brands", "template": "industry", "wordCount": 559, "defaultStatus": "todo", "seo": { "title": "Trade mark portfolio management for consumer brands | CrossBeamIP", "description": "Class coverage, renewal cycles and opposition deadlines for brand portfolios spread across dozens of registries.", "ogImage": "/og/industry.svg" } },
+  { "id": "industries-law-firms", "legacyPath": "/legacy/industries/law-firms.html", "newSlug": "industries-law-firms", "title": "Industries — IP law firms", "template": "industry", "wordCount": 634, "defaultStatus": "todo", "seo": { "title": "CrossBeamIP for IP law firms", "description": "Instruct, report and bill across client portfolios with a shared record your clients can read without a separate portal.", "ogImage": "/og/industry.svg" } },
+  { "id": "product-integrations", "legacyPath": "/legacy/product/integrations.html", "newSlug": "product-integrations", "title": "Product — Integrations", "template": "product", "wordCount": 512, "defaultStatus": "todo", "seo": { "title": "Integrations — finance, DMS and register feeds | CrossBeamIP", "description": "Connect CrossBeamIP to your finance system, document management and national register feeds without a middleware project.", "ogImage": "/og/product.svg" } },
+  { "id": "product-security", "legacyPath": "/legacy/product/security.html", "newSlug": "product-security", "title": "Product — Security", "template": "product", "wordCount": 743, "defaultStatus": "in-review", "seo": { "title": "Security and compliance | CrossBeamIP", "description": "SOC 2 Type II, regional data residency, SSO and a retention policy you set per matter type rather than per tenant.", "ogImage": "/og/product.svg" } },
+  { "id": "product-api", "legacyPath": "/legacy/product/api.html", "newSlug": "product-api", "title": "Product — API", "template": "product", "wordCount": 486, "defaultStatus": "todo", "seo": { "title": "CrossBeamIP API — read and write the family record", "description": "A REST API over the same family record the product uses, with webhooks on docket events and no per-call metering.", "ogImage": "/og/product.svg" } },
+  { "id": "product-reporting", "legacyPath": "/legacy/product/reporting.html", "newSlug": "product-reporting", "title": "Product — Reporting", "template": "product", "wordCount": 528, "defaultStatus": "todo", "seo": { "title": "Reporting — board packs and cost reviews | CrossBeamIP", "description": "Build the renewal forecast, the coverage map and the spend-by-business-unit report once, then schedule them.", "ogImage": "/og/product.svg" } },
+  { "id": "product-data-migration", "legacyPath": "/legacy/product/data-migration.html", "newSlug": "product-data-migration", "title": "Product — Data migration", "template": "product", "wordCount": 671, "defaultStatus": "todo", "seo": { "title": "Data migration — bring your docket over with a diff | CrossBeamIP", "description": "We map your export, show you every date that disagrees with ours, and cut over only once the reconciliation is signed off.", "ogImage": "/og/product.svg" } },
+  { "id": "resources-case-study-northwind", "legacyPath": "/legacy/resources/case-study-northwind.html", "newSlug": "resources-case-study-northwind", "title": "Resources — Northwind Materials case study", "template": "resource", "wordCount": 902, "defaultStatus": "todo", "seo": { "title": "Case study: Northwind Materials cut renewal spend 19% | CrossBeamIP", "description": "How a 2,400-family materials portfolio found the families no product line depended on, and what the first review cycle returned.", "ogImage": "/og/resource.svg" } },
+  { "id": "resources-whitepaper-ip-cost-control", "legacyPath": "/legacy/resources/whitepaper-ip-cost-control.html", "newSlug": "resources-whitepaper-ip-cost-control", "title": "Resources — IP cost control whitepaper", "template": "resource", "wordCount": 1140, "defaultStatus": "todo", "seo": { "title": "Whitepaper: controlling IP spend without shrinking coverage", "description": "A method for reviewing a portfolio against product revenue, and the four numbers a CFO will ask for afterwards.", "ogImage": "/og/resource.svg" } },
+  { "id": "resources-webinar-docketing-risk", "legacyPath": "/legacy/resources/webinar-docketing-risk.html", "newSlug": "resources-webinar-docketing-risk", "title": "Resources — Docketing risk webinar", "template": "resource", "wordCount": 418, "defaultStatus": "todo", "seo": { "title": "Webinar: where docketing errors actually come from", "description": "A recorded session on the three transcription points that produce most missed deadlines, and how teams close them.", "ogImage": "/og/resource.svg" } },
+  { "id": "resources-glossary", "legacyPath": "/legacy/resources/glossary.html", "newSlug": "resources-glossary", "title": "Resources — IP glossary", "template": "resource", "wordCount": 1620, "defaultStatus": "todo", "seo": { "title": "IP glossary — docketing and portfolio terms | CrossBeamIP", "description": "Plain definitions for the terms that appear on a docket: priority date, statutory bar, annuity, divisional, SPC and the rest.", "ogImage": "/og/resource.svg" } },
+  { "id": "blog-five-signs-docket-slipping", "legacyPath": "/legacy/blog/five-signs-docket-slipping.html", "newSlug": "blog-five-signs-docket-slipping", "title": "Blog — Five signs your docket is slipping", "template": "blog", "wordCount": 986, "defaultStatus": "todo", "seo": { "title": "Five signs your docket is slipping | CrossBeamIP Blog", "description": "The warning signals that show up months before a missed deadline, and the check that catches each one.", "ogImage": "/og/blog.svg" } },
+  { "id": "blog-patent-annuity-budgeting", "legacyPath": "/legacy/blog/patent-annuity-budgeting.html", "newSlug": "blog-patent-annuity-budgeting", "title": "Blog — Budgeting for patent annuities", "template": "blog", "wordCount": 874, "defaultStatus": "todo", "seo": { "title": "Budgeting for patent annuities without guessing | CrossBeamIP Blog", "description": "Why annuity budgets miss, how currency and fee-schedule changes compound, and what a defensible forecast contains.", "ogImage": "/og/blog.svg" } },
+  { "id": "blog-ip-data-hygiene", "legacyPath": "/legacy/blog/ip-data-hygiene.html", "newSlug": "blog-ip-data-hygiene", "title": "Blog — IP data hygiene", "template": "blog", "wordCount": 803, "defaultStatus": "todo", "seo": { "title": "IP data hygiene: the fields that quietly rot | CrossBeamIP Blog", "description": "Owner names, address for service and product links drift as companies restructure. Here is how to notice before an office does.", "ogImage": "/og/blog.svg" } },
+  { "id": "blog-choosing-ip-platform", "legacyPath": "/legacy/blog/choosing-ip-platform.html", "newSlug": "blog-choosing-ip-platform", "title": "Blog — Choosing an IP platform", "template": "blog", "wordCount": 1042, "defaultStatus": "todo", "seo": { "title": "Choosing an IP platform: questions that separate them | CrossBeamIP Blog", "description": "Eleven questions worth asking in a demo, most of which are about what happens when you want to leave.", "ogImage": "/og/blog.svg" } },
+  { "id": "blog-remote-ip-teams", "legacyPath": "/legacy/blog/remote-ip-teams.html", "newSlug": "blog-remote-ip-teams", "title": "Blog — Running a distributed IP team", "template": "blog", "wordCount": 767, "defaultStatus": "todo", "seo": { "title": "Running a distributed IP team | CrossBeamIP Blog", "description": "Handover, reasoning capture and time-zone-safe deadline ownership for teams split across offices.", "ogImage": "/og/blog.svg" } },
+  { "id": "blog-q3-product-notes", "legacyPath": "/legacy/blog/q3-product-notes.html", "newSlug": "blog-q3-product-notes", "title": "Blog — Q3 product notes", "template": "blog", "wordCount": 645, "defaultStatus": "todo", "seo": { "title": "Q3 product notes: rule engine, exports and audit trail | CrossBeamIP Blog", "description": "What shipped this quarter: six new jurisdictions in the rule engine, ST.96 export and reasoning fields on status changes.", "ogImage": "/og/blog.svg" } },
+  { "id": "company-about", "legacyPath": "/legacy/company/about.html", "newSlug": "company-about", "title": "Company — About", "template": "company", "wordCount": 494, "defaultStatus": "todo", "seo": { "title": "About CrossBeamIP", "description": "Built by former in-house IP operations people who got tired of reconciling the docket spreadsheet against the invoice.", "ogImage": "/og/company.svg" } },
+  { "id": "company-careers", "legacyPath": "/legacy/company/careers.html", "newSlug": "company-careers", "title": "Company — Careers", "template": "company", "wordCount": 388, "defaultStatus": "todo", "seo": { "title": "Careers at CrossBeamIP", "description": "Open roles across the rule engine, migration engineering and IP operations support. Remote across UK and EU time zones.", "ogImage": "/og/company.svg" } },
+  { "id": "company-leadership", "legacyPath": "/legacy/company/leadership.html", "newSlug": "company-leadership", "title": "Company — Leadership", "template": "company", "wordCount": 321, "defaultStatus": "todo", "seo": { "title": "Leadership | CrossBeamIP", "description": "The people accountable for the rule engine, security posture and migration commitments described on this site.", "ogImage": "/og/company.svg" } },
+  { "id": "company-press", "legacyPath": "/legacy/company/press.html", "newSlug": "company-press", "title": "Company — Press", "template": "company", "wordCount": 276, "defaultStatus": "todo", "seo": { "title": "Press and media | CrossBeamIP", "description": "Announcements, logo assets and a contact for journalists covering IP operations software.", "ogImage": "/og/company.svg" } },
+  { "id": "company-contact", "legacyPath": "/legacy/company/contact.html", "newSlug": "company-contact", "title": "Company — Contact", "template": "company", "wordCount": 205, "defaultStatus": "in-review", "seo": { "title": "Contact CrossBeamIP", "description": "Sales, support and migration enquiries, with the response target we hold ourselves to for each.", "ogImage": "/og/company.svg" } },
+  { "id": "legal-privacy", "legacyPath": "/legacy/legal/privacy.html", "newSlug": "legal-privacy", "title": "Legal — Privacy policy", "template": "legal", "wordCount": 2140, "defaultStatus": "todo", "seo": { "title": "Privacy policy | CrossBeamIP", "description": "What personal data CrossBeamIP processes, on what basis, where it is stored and how long it is kept.", "ogImage": "/og/legal.svg" } },
+  { "id": "legal-terms", "legacyPath": "/legacy/legal/terms.html", "newSlug": "legal-terms", "title": "Legal — Terms of service", "template": "legal", "wordCount": 2865, "defaultStatus": "todo", "seo": { "title": "Terms of service | CrossBeamIP", "description": "The contract terms covering subscription, availability commitments, data ownership and termination.", "ogImage": "/og/legal.svg" } },
+  { "id": "legal-cookie-policy", "legacyPath": "/legacy/legal/cookie-policy.html", "newSlug": "legal-cookie-policy", "title": "Legal — Cookie policy", "template": "legal", "wordCount": 742, "defaultStatus": "todo", "seo": { "title": "Cookie policy | CrossBeamIP", "description": "Every cookie this site sets, what it holds, how long it lasts and how to clear it.", "ogImage": "/og/legal.svg" } },
+  { "id": "legal-dpa", "legacyPath": "/legacy/legal/dpa.html", "newSlug": "legal-dpa", "title": "Legal — Data processing addendum", "template": "legal", "wordCount": 1983, "defaultStatus": "todo", "seo": { "title": "Data processing addendum | CrossBeamIP", "description": "Standard DPA covering sub-processors, transfer mechanisms and breach notification timelines.", "ogImage": "/og/legal.svg" } },
+  { "id": "support-help-center", "legacyPath": "/legacy/support/help-center.html", "newSlug": "support-help-center", "title": "Support — Help centre", "template": "support", "wordCount": 456, "defaultStatus": "todo", "seo": { "title": "Help centre | CrossBeamIP", "description": "Guides for docketing, imports, renewals and reporting, organised by the job you are trying to finish.", "ogImage": "/og/support.svg" } },
+  { "id": "support-onboarding", "legacyPath": "/legacy/support/onboarding.html", "newSlug": "support-onboarding", "title": "Support — Onboarding guide", "template": "support", "wordCount": 828, "defaultStatus": "todo", "seo": { "title": "Onboarding guide | CrossBeamIP", "description": "The first fortnight: export, mapping, reconciliation review, cutover and the checks at each step.", "ogImage": "/og/support.svg" } },
+  { "id": "support-status", "legacyPath": "/legacy/support/status.html", "newSlug": "support-status", "title": "Support — System status", "template": "support", "wordCount": 148, "defaultStatus": "todo", "seo": { "title": "System status | CrossBeamIP", "description": "Live availability for the application, register feeds and API, with incident history.", "ogImage": "/og/support.svg" } },
+  { "id": "support-training", "legacyPath": "/legacy/support/training.html", "newSlug": "support-training", "title": "Support — Training", "template": "support", "wordCount": 392, "defaultStatus": "todo", "seo": { "title": "Training for IP teams | CrossBeamIP", "description": "Role-based sessions for paralegals, attorneys and finance, run against your own migrated portfolio.", "ogImage": "/og/support.svg" } },
+  { "id": "support-faq", "legacyPath": "/legacy/support/faq.html", "newSlug": "support-faq", "title": "Support — FAQ", "template": "support", "wordCount": 934, "defaultStatus": "todo", "seo": { "title": "Frequently asked questions | CrossBeamIP", "description": "Answers on pricing, jurisdiction coverage, migration effort, data export and what happens if you leave.", "ogImage": "/og/support.svg" } }
+]
