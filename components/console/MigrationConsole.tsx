@@ -29,7 +29,7 @@ interface RowIntent {
 interface Draft {
   loading: boolean;
   text?: string;
-  source?: 'ai' | 'sample';
+  source?: 'ai' | 'shared' | 'sample';
   provider?: string;
   model?: string;
 }
@@ -169,11 +169,15 @@ export function MigrationConsole({
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({ id: row.id }),
       });
-      const data = (await response.json()) as { description?: string };
+      const data = (await response.json()) as { description?: string; source?: string };
       if (!data.description) throw new Error('no description');
       setDrafts((d) => ({
         ...d,
-        [row.id]: { loading: false, text: data.description, source: 'sample' },
+        [row.id]: {
+          loading: false,
+          text: data.description!,
+          source: data.source === 'shared' ? 'shared' : 'sample',
+        },
       }));
     } catch {
       // Last resort: the description already shipped with the row.
@@ -419,7 +423,9 @@ export function MigrationConsole({
                       >
                         {draft.source === 'ai'
                           ? `Live AI draft · ${draft.provider} / ${draft.model} · ${draft.text.length} characters`
-                          : `Sample copy — seeded fallback, not AI generated · ${draft.text.length} characters`}
+                          : draft.source === 'shared'
+                            ? `Live AI draft · the author's shared key (queued, no key needed) · ${draft.text.length} characters`
+                            : `Sample copy — seeded fallback, not AI generated · ${draft.text.length} characters`}
                       </p>
                     </td>
                   </tr>
